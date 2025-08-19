@@ -1,0 +1,85 @@
+.heroImageWrapper {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+  box-shadow: 0px 1px 5px 1px #0009;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+}
+
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1));
+  z-index: 1;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+  padding: 2rem;
+  gap: 10px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.heroHomeWrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Estilo del título general, tanto para h1 como h2 */
+.title {
+  font-size: clamp(24px, 6vw, 40px);
+  line-height: 1.2;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 0;
+}
+
+/* Responsive para tablets y móviles */
+@media (max-width: 768px) {
+  .heroImageWrapper {
+    height: 400px;
+  }
+
+  .heroContent {
+    padding: 1rem;
+    gap: 8px;
+  }
+  .heroHomeWrapper {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroImageWrapper {
+    height: 300px;
+  }
+
+  .heroContent {
+    padding: 1.5rem;
+  }
+
+  .title {
+    font-size: clamp(20px, 7vw, 28px);
+  }
+}
+
+.heroLink {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  height: 100%;
+}

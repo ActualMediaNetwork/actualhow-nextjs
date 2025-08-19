@@ -1,0 +1,162 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2.25rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.postContent .ad-wrapper {
+  margin-bottom: 1rem;
+}
+
+/* Palette color */
+/* #ee6352
+#59cd90
+#3fa7d6
+#fac05e
+#f79d84
+#50514f */
+
+/* styles/reset.css
+   ─────────────────
+   Modern CSS Reset
+   Basado en Andy Bell + Josh W. Comeau
+   Última revisión: 2025-06-29
+*/
+
+/* 1. Mejor modelo de caja en todo el DOM */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* 2. Elimina márgenes por defecto */
+* {
+  margin: 0;
+}
+
+/* 3. Altura de línea agradable - mejora legibilidad */
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* 4. Mejora tipografía en inputs y botones */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* 5. Elimina decoración de enlace subrayado azul en iOS */
+a {
+  -webkit-tap-highlight-color: transparent;
+  text-decoration-skip-ink: auto;
+  color: inherit;
+}
+
+/* 6. Listas sin viñetas y padding extra */
+ol,
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* 7. Imágenes y vídeos fluidos */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* 8. Evita saltos inesperados en el scroll al anclar */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* 10. Títulos sin estilos heredados rancios */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+/* 11. Tablas sin border-spacing fantasma */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* 12. Elementos interactivos accesibles por teclado */
+[hidden] {
+  display: none !important;
+}
+
+.postContent {
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  p {
+    margin-bottom: 2rem;
+  }
+  img {
+    margin: 6px auto;
+    height: 100%;
+  }
+
+  a {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .youtube-embed {
+    text-align: center;
+    margin-bottom: 2rem;
+    iframe {
+      max-width: 100%;
+      height: auto;
+      min-height: 300px;
+    }
+  }
+
+  blockquote {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-left: 4px solid #ccc;
+    p {
+      margin: 0;
+    }
+  }
+}

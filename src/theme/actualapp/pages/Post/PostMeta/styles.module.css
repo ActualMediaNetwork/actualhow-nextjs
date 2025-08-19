@@ -1,0 +1,16 @@
+.postMeta {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 16px;
+  width: fit-content;
+  border-bottom: 1px solid #999;
+  padding: 0 0.5rem 0.5rem 0.5rem;
+  color: #555;
+}
+
+.postMetaItem {
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
+}

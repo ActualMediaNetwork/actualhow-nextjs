@@ -1,0 +1,62 @@
+{
+  "es": {
+    "common": {
+      "page": "Página",
+      "paginatedText": "Página {page} de las publicaciones del blog de ActualAPP.",
+      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
+      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "aboutAuthor": "Sobre el autor",
+      "bioEdu": "Cofundador de Actualapp y apasionado de la innovación tecnológica. Licenciado en historia y programador de profesión, combino el rigor académico con el entusiasmo por las últimas tendencias tecnológicas. Desde hace más de diez años, soy redactor de blogs de tecnología y mi objetivo es ofrecer contenido relevante y actualizado sobre todo este mundo, con un enfoque claro y accesible para todos los lectores. Además de mi pasión por la tecnología, disfruto de las series de televisión y me encanta compartir mis opiniones y recomendaciones. Y, por supuesto, tengo opiniones firmes sobre la pizza: definitivamente, sin piña. Únete a mí en este viaje para explorar el fascinante mundo de la tecnología y sus múltiples aplicaciones en nuestra vida cotidiana.",
+      "bioAlberto": "Con más de 10 años de experiencia en redacción para webs de tecnología, me especializo en tutoriales detallados sobre aplicaciones populares y soluciones difíciles de encontrar en internet. Soy técnico en Telecomunicaciones y Sistemas Informáticos, lo que me permite ofrecer una visión técnica a la par que apta para todos los públicos. Además, creo contenido en redes sociales, principalmente vídeos sobre series y anime, una de mis grandes aficiones. También he trabajado como editor de vídeo para creadores de contenido y ocasionalmente grabo vídeos para eventos. Mi objetivo es proporcionar información útil y accesible para todos los amantes de la tecnología.",
+      "relatedTitle": "Lo sabías?"
+    }
+  },
+  "en": {
+    "common": {
+      "page": "Page",
+      "paginatedText": "Page {page} of the blog posts on ActualAPP.",
+      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
+      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "aboutAuthor": "Sobre el autor",
+      "bioEdu": "Co-founder of Actualapp and passionate about technological innovation. With a degree in history and a programmer by profession, I combine academic rigor with enthusiasm for the latest technological trends. For over ten years, I've been a technology blogger, and my goal is to offer relevant and up-to-date content on this topic, with a clear and accessible approach for all readers. In addition to my passion for technology, I enjoy watching television series and love sharing my opinions and recommendations. And, of course, I have strong opinions about pizza: definitely no pineapple. Join me on this journey to explore the fascinating world of technology and its many applications in our daily lives.",
+      "bioAlberto": "With over 10 years of experience writing for technology websites, I specialize in detailed tutorials for popular applications and solutions that are hard to find online. I have a background in Telecommunications and Information Systems, which allows me to offer a technical perspective that's also suitable for all audiences. I also create content for social media, primarily videos about TV series and anime, one of my great hobbies. I've also worked as a video editor for content creators and occasionally record videos for events. My goal is to provide useful and accessible information for all technology lovers.",
+      "relatedTitle": "Did you know?"
+    }
+  },
+  "de": {
+    "common": {
+      "page": "Seite",
+      "paginatedText": "Seite {page} der Blogbeiträge von ActualAPP.",
+      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
+      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "aboutAuthor": "Sobre el autor",
+      "bioEdu": "Mitgründer von Actualapp und begeisterter Anhänger technologischer Innovationen. Mit einem Geschichtsstudium und beruflich als Programmierer verbinde ich akademische Strenge mit Begeisterung für die neuesten Technologietrends. Seit über zehn Jahren bin ich Technologie-Blogger und mein Ziel ist es, relevante und aktuelle Inhalte zu diesem Thema anzubieten, die allen Lesern verständlich und zugänglich sind. Neben meiner Leidenschaft für Technologie schaue ich gerne Fernsehserien und teile gerne meine Meinungen und Empfehlungen. Und natürlich habe ich eine klare Meinung zu Pizza: definitiv keine Ananas. Begleiten Sie mich auf dieser Reise durch die faszinierende Welt der Technologie und ihre vielfältigen Anwendungen in unserem Alltag.",
+      "bioAlberto": "Mit über 10 Jahren Erfahrung im Schreiben für Technologie-Websites habe ich mich auf detaillierte Tutorials für beliebte Anwendungen und Lösungen spezialisiert, die online schwer zu finden sind. Mein Hintergrund in Telekommunikation und Informationssystemen ermöglicht es mir, eine technische Perspektive zu bieten, die für alle Zielgruppen geeignet ist. Ich erstelle auch Inhalte für soziale Medien, hauptsächlich Videos über Fernsehserien und Anime, eines meiner großen Hobbys. Ich habe auch als Videoeditor für Content-Ersteller gearbeitet und nehme gelegentlich Videos für Veranstaltungen auf. Mein Ziel ist es, allen Technikbegeisterten nützliche und zugängliche Informationen bereitzustellen.",
+      "relatedTitle": "Wusstest du das?"
+    }
+  },
+  "fr": {
+    "common": {
+      "page": "Page",
+      "paginatedText": "Page {page} des articles de blog d'ActualAPP.",
+      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
+      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "aboutAuthor": "Sobre el autor",
+      "bioEdu": "Cofondateur d'Actualapp et passionné d'innovation technologique, diplômé en histoire et programmeur de formation, j'allie rigueur académique et enthousiasme pour les dernières tendances technologiques. Blogueur technologique depuis plus de dix ans, mon objectif est de proposer un contenu pertinent et actuel sur ce sujet, avec une approche claire et accessible à tous. Outre ma passion pour la technologie, j'aime regarder des séries télévisées et partager mes opinions et recommandations. Et, bien sûr, j'ai un avis tranché sur la pizza : l'ananas est à proscrire. Rejoignez-moi dans ce voyage pour explorer le monde fascinant de la technologie et ses nombreuses applications au quotidien.",
+      "bioAlberto": "Fort de plus de 10 ans d'expérience en rédaction pour des sites web technologiques, je me spécialise dans la rédaction de tutoriels détaillés pour des applications et solutions populaires, difficiles à trouver en ligne. Ma formation en télécommunications et en systèmes d'information me permet d'offrir une perspective technique adaptée à tous les publics. Je crée également du contenu pour les réseaux sociaux, principalement des vidéos sur les séries télévisées et les anime, l'un de mes grands loisirs. J'ai également travaillé comme monteur vidéo pour des créateurs de contenu et, occasionnellement, enregistré des vidéos pour des événements. Mon objectif est de fournir des informations utiles et accessibles à tous les passionnés de technologie.",
+      "relatedTitle": "Le saviez-vous?"
+    }
+  },
+  "pt-br": {
+    "common": {
+      "page": "Página",
+      "paginatedText": "Página {page} das publicações do blog da ActualAPP.",
+      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
+      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "aboutAuthor": "Sobre el autor",
+      "bioEdu": "Cofundador da Actualapp e apaixonado por inovação tecnológica. Formado em História e programador de profissão, combino o rigor acadêmico com o entusiasmo pelas últimas tendências tecnológicas. Há mais de dez anos, sou blogueiro de tecnologia e meu objetivo é oferecer conteúdo relevante e atualizado sobre o tema, com uma abordagem clara e acessível a todos os leitores. Além da minha paixão por tecnologia, gosto de assistir séries de televisão e adoro compartilhar minhas opiniões e recomendações. E, claro, tenho opiniões fortes sobre pizza: nada de abacaxi, com certeza. Junte-se a mim nesta jornada para explorar o fascinante mundo da tecnologia e suas inúmeras aplicações em nosso dia a dia.",
+      "bioAlberto": "Com mais de 10 anos de experiência escrevendo para sites de tecnologia, sou especialista em tutoriais detalhados para aplicativos e soluções populares, difíceis de encontrar online. Tenho formação em Telecomunicações e Sistemas de Informação, o que me permite oferecer uma perspectiva técnica adequada a todos os públicos. Também crio conteúdo para mídias sociais, principalmente vídeos sobre séries de TV e animes, um dos meus grandes hobbies. Também trabalhei como editor de vídeo para criadores de conteúdo e, ocasionalmente, gravo vídeos para eventos. Meu objetivo é fornecer informações úteis e acessíveis a todos os amantes de tecnologia.",
+      "relatedTitle": "Você sabia?"
+    }
+  }
+}

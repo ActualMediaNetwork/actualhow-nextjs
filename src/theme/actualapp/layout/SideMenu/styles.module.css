@@ -1,0 +1,79 @@
+.menuWrapper {
+  width: 90px;
+  background: #fff;
+  transition: all 0.6s ease-in-out;
+  color: #fff;
+  position: relative;
+  box-shadow: 0 0 10px #0000004d;
+  &[data-open="true"] {
+    width: 250px;
+  }
+}
+
+.menuWrapper[data-open="false"] ul li {
+  width: fit-content;
+}
+.menuWrapper[data-open="false"] ul li a {
+  width: 24px;
+}
+
+.menuWrapper[data-open="false"] ul li a > :nth-child(2) {
+  opacity: 0;
+  pointer-events: none;
+  width: 0;
+  margin-left: 0;
+}
+
+.menuToggle {
+  position: absolute;
+  top: 10px;
+  left: calc(100% - 20px);
+  width: 40px;
+  height: 40px;
+  padding: 1px;
+  background-color: #f9f9f9;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  color: #333;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 1280px) {
+  .menuWrapper {
+    display: none;
+  }
+}
+
+/* Estilos base para el logo */
+.menuWrapper picture img {
+  display: block;
+  margin: 0 auto 2rem auto;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  object-fit: contain;
+  max-width: 100px;
+  max-height: 100px;
+  width: 100px;
+  height: 100px;
+}
+
+/* Cuando el menú está cerrado */
+.menuWrapper[data-open="false"] picture img {
+  width: 40px !important;
+  height: 40px !important;
+  display: block;
+  position: relative;
+}
+
+/* Cuando el menú está abierto */
+.menuWrapper[data-open="true"] picture img {
+  width: 100px !important;
+  height: 100px !important;
+  max-width: 100px;
+  max-height: 100px;
+  display: block;
+  position: relative;
+  left: 0;
+}

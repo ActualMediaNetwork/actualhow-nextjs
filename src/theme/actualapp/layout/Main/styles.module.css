@@ -1,0 +1,7 @@
+.mainWrapper {
+  flex: 5;
+  background-color: #f9f9f9;
+  max-width: 100%;
+  overflow: hidden;
+  /* padding: 1rem; */
+}

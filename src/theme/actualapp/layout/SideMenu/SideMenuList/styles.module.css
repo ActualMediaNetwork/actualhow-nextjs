@@ -1,0 +1,12 @@
+.menuContentWrapper {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 20px;
+  .menuList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

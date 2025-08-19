@@ -1,0 +1,30 @@
+.categoryWrapper {
+  background: #962ef6;
+  background: linear-gradient(
+    90deg,
+    #4cadae 0%,
+    /* teal claro (inicio) */ #54739f 33%,
+    /* azul apagado */ #e96b54 66%,
+    /* salmon / naranja-rojizo */ #bc9e86 100%
+      /* tono beige/marrón suave (final) */
+  );
+  padding: 4px 8px;
+  border-radius: 5px;
+  display: flex;
+  width: fit-content;
+  font-size: clamp(12px, 1.6vw, 16px);
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100%;
+  line-height: 1.2;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.2s ease;
+}
+
+.categoryWrapper a {
+  text-decoration: none;
+  color: inherit;
+}
