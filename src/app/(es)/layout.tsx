@@ -18,7 +18,6 @@ export default async function EsRootLayout({
   });
   return (
     <html lang={locale} suppressHydrationWarning>
-      <head>{/* <AdSenseLoader /> */}</head>
       <body>
         <>
           <ThemeLayout
@@ -28,7 +27,6 @@ export default async function EsRootLayout({
           >
             {children}
           </ThemeLayout>
-          {/* <AutoAdsRefresh /> */}
           <Suspense fallback={null}>
             <AnalyticsHandler />
           </Suspense>

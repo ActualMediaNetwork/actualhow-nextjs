@@ -3,12 +3,7 @@ import { locale, menusIds } from "./locale";
 import ThemeLayout from "@/theme/actualapp/layout";
 import { Suspense } from "react";
 import { GoogleAnalytics } from "@next/third-parties/google";
-import {
-  AdSenseLoader,
-  AnalyticsHandler,
-  AutoAdsRefresh,
-  getLayoutMenus,
-} from "wpnextjs-headless-next-base";
+import { AnalyticsHandler, getLayoutMenus } from "wpnextjs-headless-next-base";
 
 export default async function EsRootLayout({
   children,
@@ -23,9 +18,7 @@ export default async function EsRootLayout({
   });
   return (
     <html lang={locale} suppressHydrationWarning>
-      <head>
-        <AdSenseLoader />
-      </head>
+      <head></head>
       <body>
         <>
           <ThemeLayout
@@ -35,11 +28,10 @@ export default async function EsRootLayout({
           >
             {children}
           </ThemeLayout>
-          <AutoAdsRefresh />
           <Suspense fallback={null}>
             <AnalyticsHandler />
           </Suspense>
-          <GoogleAnalytics gaId="G-66T1KZEEJE" />
+          <GoogleAnalytics gaId="G-TSKLBHTYMT" />
         </>
       </body>
     </html>
