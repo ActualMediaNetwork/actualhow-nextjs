@@ -12,7 +12,9 @@ type FooterProps = { footerMenu: WPMenuItem[]; locale: string };
 const Footer = ({ footerMenu, locale }: FooterProps) => {
   return (
     <footer className={styles.footerWrapper}>
-      <Logo mobile locale={locale} />
+      <div style={{ maxWidth: "300px" }}>
+        <Logo mobile locale={locale} />
+      </div>
       <ul className={styles.footerMenu}>
         {footerMenu.map((menuItem) => {
           const { id, title, url } = menuItem;

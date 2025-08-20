@@ -115,7 +115,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const entries = Object.entries(variants).map(
       ([lng, href]) => [normalizeHreflang(lng), href] as const
     );
-
     if (entries.length > 1) {
       // Hay varias lenguas -> incluimos hreflang + x-default
       const languages: Record<string, string> = {};

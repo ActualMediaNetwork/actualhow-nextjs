@@ -26,12 +26,7 @@ const Logo = ({
           alt="Logo"
           height={150}
           width={300}
-          style={{
-            objectFit: "contain",
-            width: "auto",
-            height: "auto",
-            maxWidth: "300px",
-          }}
+          style={{ objectFit: "contain", width: "auto", height: "auto" }}
           className={className}
           fetchPriority="high"
           decoding="async"
