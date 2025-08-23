@@ -15,6 +15,7 @@ type PostProps = {
 
 const Post = ({ post, relatedPosts, locale }: PostProps) => {
   const { content, yoast_head_json } = post;
+  const isQuiz = post.categories_data[0].slug;
   return (
     <article className={styles.postWrapper}>
       <HeroPost post={post} />
