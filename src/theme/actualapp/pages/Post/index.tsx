@@ -6,6 +6,7 @@ import Card from "../../components/Card";
 import Author from "./Author";
 import { Locales, t } from "@/app/i18n";
 import { RenderHTML } from "wpnextjs-headless-next-base";
+import QuizRenderer from "../../components/Quiz";
 
 type PostProps = {
   post: WPPost;
@@ -23,6 +24,11 @@ const Post = ({ post, relatedPosts, locale }: PostProps) => {
         <section className={`postContent ${styles.postContent}`}>
           {yoast_head_json && <PostMeta data={yoast_head_json} />}
           <RenderHTML html={content.rendered} />
+          {isQuiz && post.schema && (
+            <section id="quiz">
+              <QuizRenderer quiz={post.schema} />
+            </section>
+          )}
           {post._embedded?.author?.[0] && (
             <Author author={post._embedded.author[0]} locale={locale} />
           )}
