@@ -2,22 +2,18 @@
   "es": {
     "common": {
       "page": "Página",
-      "paginatedText": "Página {page} de las publicaciones del blog de ActualAPP.",
-      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
-      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
+      "paginatedText": "Página {page} de las publicaciones del blog de ActualHow.",
       "aboutAuthor": "Sobre el autor",
-      "bioalejandro-torres": "Cofundador de Actualapp y apasionado de la innovación tecnológica. Licenciado en historia y programador de profesión, combino el rigor académico con el entusiasmo por las últimas tendencias tecnológicas. Desde hace más de diez años, soy redactor de blogs de tecnología y mi objetivo es ofrecer contenido relevante y actualizado sobre todo este mundo, con un enfoque claro y accesible para todos los lectores. Además de mi pasión por la tecnología, disfruto de las series de televisión y me encanta compartir mis opiniones y recomendaciones. Y, por supuesto, tengo opiniones firmes sobre la pizza: definitivamente, sin piña. Únete a mí en este viaje para explorar el fascinante mundo de la tecnología y sus múltiples aplicaciones en nuestra vida cotidiana.",
-      "bioclara-vidal": "Con más de 10 años de experiencia en redacción para webs de tecnología, me especializo en tutoriales detallados sobre aplicaciones populares y soluciones difíciles de encontrar en internet. Soy técnico en Telecomunicaciones y Sistemas Informáticos, lo que me permite ofrecer una visión técnica a la par que apta para todos los públicos. Además, creo contenido en redes sociales, principalmente vídeos sobre series y anime, una de mis grandes aficiones. También he trabajado como editor de vídeo para creadores de contenido y ocasionalmente grabo vídeos para eventos. Mi objetivo es proporcionar información útil y accesible para todos los amantes de la tecnología.",
+      "bioalejandro-torres": "Tengo 30 años y soy licenciado en Ciencias Sociales porque siempre me intrigó cómo interactuamos y nos entendemos. Me interesa especialmente cómo la tecnología transforma nuestras relaciones y cómo podemos mantener la autenticidad en medio de tantos cambios. En ActualHow escribo en un tono cercano y práctico, con el objetivo de que cualquier persona pueda encontrar herramientas útiles para comunicarse mejor, ganar confianza y construir vínculos más sólidos.",
+      "bioclara-vidal": "Estudié Psicología porque siempre me ha fascinado cómo nos conectamos con los demás. Creo que las relaciones, ya sean de amistad, de pareja o en el entorno digital, marcan nuestra vida más de lo que imaginamos. En ActualHow escribo en un lenguaje cercano y sencillo, con el objetivo de que cualquier persona pueda encontrar consejos útiles para comunicarse mejor, superar inseguridades y construir vínculos más sanos y auténticos.",
       "relatedTitle": "Lo sabías?"
     }
   },
   "en": {
     "common": {
       "page": "Page",
-      "paginatedText": "Page {page} of the blog posts on ActualAPP.",
-      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
-      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
-      "aboutAuthor": "Sobre el autor",
+      "paginatedText": "Page {page} of the blog posts on ActualHow.",
+      "aboutAuthor": "About the autor",
       "bioalejandro-torres": "I’m 30 years old and I have a degree in Social Sciences because I’ve always been intrigued by how we interact and understand each other. I’m especially interested in how technology transforms our relationships and how we can maintain authenticity amid so much change. At ActualHow, I write in a friendly and practical tone, aiming to provide useful tools for anyone to communicate better, gain confidence, and build stronger connections.",
       "bioclara-vidal": "I studied Psychology because I’ve always been fascinated by how we connect with others. I believe that relationships—whether friendships, romantic partnerships, or digital interactions—shape our lives more than we realize. At ActualHow, I write in a clear and approachable way so that anyone can find useful advice to communicate better, overcome insecurities, and build healthier, more authentic connections.",
       "relatedTitle": "Did you know?"
@@ -26,10 +22,8 @@
   "de": {
     "common": {
       "page": "Seite",
-      "paginatedText": "Seite {page} der Blogbeiträge von ActualAPP.",
-      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
-      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
-      "aboutAuthor": "Sobre el autor",
+      "paginatedText": "Seite {page} der Blogbeiträge von ActualHow.",
+      "aboutAuthor": "Über den Autor",
       "bioalejandro-torres": "Ich bin 30 Jahre alt und habe einen Abschluss in Sozialwissenschaften, weil mich schon immer fasziniert hat, wie wir interagieren und einander verstehen. Besonders interessiert mich, wie Technologie unsere Beziehungen verändert und wie wir inmitten all dieser Veränderungen authentisch bleiben können. Bei ActualHow schreibe ich in einem nahbaren und praktischen Ton, damit jeder nützliche Werkzeuge findet, um besser zu kommunizieren, Selbstvertrauen zu gewinnen und stärkere Verbindungen aufzubauen.",
       "bioclara-vidal": "Ich habe Psychologie studiert, weil mich schon immer fasziniert hat, wie wir mit anderen in Kontakt treten. Ich glaube, dass Beziehungen – ob Freundschaften, Partnerschaften oder digitale Interaktionen – unser Leben stärker prägen, als wir denken. Bei ActualHow schreibe ich in einer klaren und nahbaren Sprache, damit jeder nützliche Tipps finden kann, um besser zu kommunizieren, Unsicherheiten zu überwinden und gesündere, authentischere Verbindungen aufzubauen.",
       "relatedTitle": "Wusstest du das?"
@@ -38,10 +32,8 @@
   "fr": {
     "common": {
       "page": "Page",
-      "paginatedText": "Page {page} des articles de blog d'ActualAPP.",
-      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
-      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
-      "aboutAuthor": "Sobre el autor",
+      "paginatedText": "Page {page} des articles de blog d'ActualHow.",
+      "aboutAuthor": "À propos de l'auteur",
       "bioalejandro-torres": "J’ai 30 ans et je suis diplômé en sciences sociales, car j’ai toujours été intrigué par la façon dont nous interagissons et nous comprenons. Je m’intéresse particulièrement à la manière dont la technologie transforme nos relations et comment nous pouvons rester authentiques au milieu de tant de changements. Sur ActualHow, j’écris dans un style proche et pratique, afin que chacun puisse trouver des outils utiles pour mieux communiquer, gagner en confiance et construire des liens plus solides.",
       "bioclara-vidal": "J’ai étudié la psychologie car j’ai toujours été fascinée par la façon dont nous nous connectons les uns aux autres. Je crois que les relations, qu’elles soient amicales, amoureuses ou numériques, marquent notre vie bien plus que nous ne l’imaginons. Sur ActualHow, j’écris dans un langage simple et accessible afin que chacun puisse trouver des conseils utiles pour mieux communiquer, surmonter ses insécurités et construire des liens plus sains et authentiques.",
       "relatedTitle": "Le saviez-vous?"
@@ -50,10 +42,8 @@
   "pt-br": {
     "common": {
       "page": "Página",
-      "paginatedText": "Página {page} das publicações do blog da ActualAPP.",
-      "linkedinEdu": "Abrir Linkedin de Edu Diaz",
-      "linkTreeAlberto": "Abrir Linktree de Alberto Guerrero",
-      "aboutAuthor": "Sobre el autor",
+      "paginatedText": "Página {page} das publicações do blog da ActualHow.",
+      "aboutAuthor": "Sobre o autor",
       "bioalejandro-torres": "Tenho 30 anos e sou formado em Ciências Sociais porque sempre me intrigou a forma como interagimos e nos entendemos. Interessa-me especialmente como a tecnologia transforma nossas relações e como podemos manter a autenticidade em meio a tantas mudanças. No ActualHow escrevo em um tom próximo e prático, com o objetivo de que qualquer pessoa possa encontrar ferramentas úteis para se comunicar melhor, ganhar confiança e construir vínculos mais fortes.",
       "bioclara-vidal": "Estudei Psicologia porque sempre me fascinou a forma como nos conectamos com os outros. Acredito que os relacionamentos — sejam de amizade, amorosos ou no ambiente digital — marcam nossa vida mais do que imaginamos. No ActualHow escrevo de maneira simples e próxima, com o objetivo de que qualquer pessoa possa encontrar conselhos úteis para se comunicar melhor, superar inseguranças e construir vínculos mais saudáveis e autênticos.",
       "relatedTitle": "Você sabia?"

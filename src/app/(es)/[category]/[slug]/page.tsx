@@ -43,7 +43,6 @@ export default async function Page({
     slug,
     apiUrl: process.env.WP_API_URL!,
   });
-  console.log({ category });
   return (
     <>
       {p.yoast_head && <SchemaJSON metaInfo={p.yoast_head} />}
